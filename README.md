@@ -1,6 +1,8 @@
-Hi, this is @yosokim space
+Hi, this is @yosokim space ( Ꙭ)🥕
 
-I like to try new things and tech
+I am interested in these technologies ₍ᐢ •͈ ༝ •͈ ᐢ₎♡
 
-- Typescript(Javascript)
-- Flutter(Dart)
+- Typescript(Javascript) ฅʕ•̫͡•
+- Flutter(Dart) (•̀ᴗ• )
+
+![](https://github-widgetbox.vercel.app/api/profile?username=yosokim&data=repositories,stars,commits)
